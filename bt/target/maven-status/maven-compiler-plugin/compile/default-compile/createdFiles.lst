@@ -1,0 +1,3 @@
+controller\DashboardServlet.class
+controller\AuthServlet.class
+controller\LogoutServlet.class
