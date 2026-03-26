@@ -1,3 +1,5 @@
 controller\DashboardServlet.class
+dao\UserDAO.class
+context\DBContext.class
 controller\AuthServlet.class
 controller\LogoutServlet.class
