@@ -1,0 +1,5 @@
+controller\EventServlet.class
+model\Event.class
+util\JPAUtil.class
+controller\AttendeeServlet.class
+model\Attendee.class
