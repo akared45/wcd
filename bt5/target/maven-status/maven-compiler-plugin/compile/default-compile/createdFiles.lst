@@ -1,0 +1,7 @@
+controller\LoginServlet.class
+util\JPAUtil.class
+model\Category.class
+controller\LogoutServlet.class
+model\Book.class
+controller\BookServlet.class
+model\User.class
