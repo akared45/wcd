@@ -1,0 +1,4 @@
+controller\JobServlet.class
+model\Applicant.class
+util\JPAUtil.class
+model\JobPosting.class
